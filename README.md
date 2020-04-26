@@ -1,2 +1,2 @@
 # vocabulary
-#####Truncate a string - укоротить (обрезать) строку.
+##Truncate a string## - укоротить (обрезать) строку.
