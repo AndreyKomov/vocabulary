@@ -1,4 +1,6 @@
 # vocabulary
-**Truncate a string** - укоротить (обрезать) строку.
+**truncate a string** - укоротить (обрезать) строку.
 
-**Likewise** - также.
+**likewise** - также.
+
+**belong** - пренадлежать.
