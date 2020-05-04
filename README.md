@@ -12,3 +12,5 @@
 **define what makes up an object** - определить, что составляет объект.
 
 **property/value pairs** - пары свойство/значение.
+
+**access the values** - получить доступ к значениям.
