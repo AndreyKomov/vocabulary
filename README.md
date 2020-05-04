@@ -15,3 +15,5 @@
 
 **access the values** - получить доступ к значениям.
 
+**blueprint for the creation of new objects** - план создания новых объектов.
+
