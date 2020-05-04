@@ -14,3 +14,4 @@
 **property/value pairs** - пары свойство/значение.
 
 **access the values** - получить доступ к значениям.
+
