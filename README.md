@@ -17,3 +17,5 @@
 
 **blueprint for the creation of new objects** - план создания новых объектов.
 
+**respectively** - соответственно.
+
