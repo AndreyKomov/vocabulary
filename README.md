@@ -20,3 +20,5 @@
 **respectively** - соответственно.
 
 **without the new operator, this inside the constructor would not point to the newly created object** - без оператора new это внутри конструктора не будет указывать на вновь созданный объект.
+
+**assigning it to a variable** - присвоение этого переменной.
