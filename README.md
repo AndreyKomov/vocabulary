@@ -26,4 +26,7 @@
 **to accept parameters** - принимать параметры.
 
 **flexible** - гибкий.
+
 **to pass in the values as arguments to define** - передайтm значения в качестве аргументов, чтобы определить (что-то, например, новый объект).
+
+**compare to** - сравнить с.
