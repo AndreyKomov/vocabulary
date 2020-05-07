@@ -25,6 +25,8 @@
 
 **to accept parameters** - принимать параметры.
 
+**verify** - проверить.
+
 **flexible** - гибкий.
 
 **to pass in the values as arguments to define** - передайтm значения в качестве аргументов, чтобы определить (что-то, например, новый объект).
